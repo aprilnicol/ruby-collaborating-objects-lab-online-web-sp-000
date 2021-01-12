@@ -11,3 +11,4 @@ class Song
        @artist = song_artist
       @artist.add_song(self)
   end
+end 
