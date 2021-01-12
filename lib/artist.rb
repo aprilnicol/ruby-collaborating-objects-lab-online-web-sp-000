@@ -30,3 +30,4 @@ class Artist
   end
   print_songs
 end
+end 
