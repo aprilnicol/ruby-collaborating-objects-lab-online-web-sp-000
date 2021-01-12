@@ -29,4 +29,3 @@ class Artist
     @songs.each{|song| puts "#{song}"}
   end
   print_songs
-
