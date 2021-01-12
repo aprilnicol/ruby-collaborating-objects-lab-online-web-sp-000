@@ -18,5 +18,5 @@ class Song
     self.artist = artist
     artist.add_song(self)
   end
-  Song.all 
+  song.all 
 end
